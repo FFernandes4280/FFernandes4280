@@ -2,7 +2,9 @@
 <h3 align="center"> Hi! My name is Filipe, and I am currently graduating in Computer Science. I’m an enthusiast of video games and technology, and I enjoy solving problems. </h3>
 
 <h3 align="left"> Where to find me: </h3>
+
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:filipecfernandes2004@hotmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filipe-fernandes-a76950207/)
+
 <h3 align="left"> About me: </h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
