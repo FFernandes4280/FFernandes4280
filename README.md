@@ -20,6 +20,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FFernandes4280&show_icons=true&theme=dark)
 
 <h3>Here, you’ll find a few of the projects I’ve had the most fun working on, along with some other college assignments. I hope you enjoy it! </h3>
