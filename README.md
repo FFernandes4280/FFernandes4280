@@ -23,5 +23,5 @@
 
 <h3>Here, you’ll find a few of the projects I’ve had the most fun working on, along with some other college assignments. I hope you enjoy it! </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FFernandes4280)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FFernandes4280)](https://github.com/anuraghazra/github-readme-stats icons=true&theme=dark)
 
