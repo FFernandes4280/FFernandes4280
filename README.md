@@ -22,7 +22,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FFernandes4280&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFernandes4280&theme=dark&layout=compact&card_width=500&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFernandes4280&theme=dark&layout=compact&card_width=500&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Here, you’ll find a few of the projects I’ve had the most fun working on, along with some other college assignments. I hope you enjoy it! </h3>
 
