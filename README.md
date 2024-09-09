@@ -3,7 +3,7 @@
 
 <h3 align="left"> Where to find me: </h3>
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:filipecfernandes2004@hotmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filipe-fernandes-a76950207/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:filipecfernandes2004@hotmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ffernandes-filipe/)
 
 <h3 align="left"> About me: </h3>
 <p align="left"> 
