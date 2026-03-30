@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, you. You’re finally here!</h1>
-<h3 align="center"> Hi! My name is Filipe, and I am currently graduating in Computer Science. I’m an enthusiast of video games and technology, and I enjoy solving problems. </h3>
+<h3 align="center"> Hi! My name is Filipe, and I am a Computer Science graduate. I’m an enthusiast of video games and technology, and I enjoy solving problems. </h3>
 
 <h3 align="left"> Where to find me: </h3>
 
