@@ -3,10 +3,10 @@
 
 <h3 align="left"> Where to find me: </h3>
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:filipecfernandes2004@hotmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ffernandes-filipe/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:filipecfernandes2004@hotmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ffernandes-filipe/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/FFernandes4280/) [![Advent of Code](https://img.shields.io/badge/-Advent%20of%20Code-ffff66?style=flat-square&logo=adventofcode&logoColor=black)](https://github.com/FFernandes4280/AdventOfCode)
 
 <h3 align="left"> About me: </h3>
-<p align="left"> 
+<p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -18,7 +18,3 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 <h3>Here, you’ll find a few of the projects I’ve had the most fun working on, along with some other college assignments. I hope you enjoy it! </h3>
-
-
-
-
